@@ -1,0 +1,9 @@
+This is an amazing Indian cuisine worth trying
+
+Name : Chaat
+
+Description: Chaat is an umbrella term for a wide range of roadside foods that usually 
+feature some kind of fried dough with various ingredients that typically create a spicy, 
+tangy, or salty flavour, though some chaat are sweet.
+
+Ask me for details
